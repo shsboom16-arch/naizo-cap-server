@@ -1,0 +1,3 @@
+# Lightweight Python dependencies for cloud deployment
+# The server is lightweight and uses standard library + optional gunicorn
+gunicorn>=21.2.0
